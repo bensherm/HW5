@@ -1,0 +1,32 @@
+.one{
+    background-color: red;
+}
+.two{
+    background-color:  blue;
+}
+.three{
+    background-color: green;
+}
+
+#table{
+    border: 5px solid black;
+    width:500px;
+}
+
+#spin{
+    background-color: lawngreen;
+   align-content: center;
+}
+
+#done{
+    background-color:forestgreen;
+   
+    }
+
+.animate{
+    padding: 10px;
+    background-color: forestgreen
+        !important;
+        
+    
+}
